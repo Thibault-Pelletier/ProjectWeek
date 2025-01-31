@@ -52,16 +52,15 @@ This project aims to continue the ongoing effort of bringing 3D Slicer to the we
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
-
-
-
+1. First preview version of [trame-slicer available on KitwareMedical github repo](https://github.com/KitwareMedical/trame-slicer)
+2. First proof of concept of the [SlicerTrame 3D Slicer extension on KitwareMedical github repo](https://github.com/KitwareMedical/SlicerTrame)
+3. A lot of infrastructure work under review thanks to [Alexy Pellegrini](https://github.com/AlexyPellegrini) and our 3D Slicer maintainers!
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+* {trame-slicer VMTK integration demo video](https://drive.google.com/file/d/1eWaMe6HGhYDC5iyaKcwwPeckn85rSZti/view?usp=sharing)
 
 _No response_
 
